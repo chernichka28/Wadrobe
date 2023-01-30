@@ -1,7 +1,7 @@
 # Wadrobe
  Returns clothes according to the weather.
  
- Simple wadrobe with different questions on Ruby 3.1.2
+ Simple wadrobe on Ruby 3.1.2
  
 ## Using
 
