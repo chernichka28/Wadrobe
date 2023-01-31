@@ -1,15 +1,15 @@
-# Wadrobe
- Returns clothes according to the weather.
+# Гардероб
+ Возвращает набор одежды по введенной температуре.
  
- Simple wadrobe on Ruby 3.1.2
+ Простой гардероб на Ruby 3.1.2
  
-## Using
+## Использование
 
- Run in your project folder
+ Для запуска выполните команду в папке проекта:
  ```
  ruby main.rb
  ```
  
- To add new dresses: in `/data/` create `.txt` files like `example.txt`
+ Для добавления новых вещй: в `/data/` создать `your_title.txt` по образу `example.txt`
 
-<sub>Educational project</sub>
+<sub>Учебный проект</sub>
